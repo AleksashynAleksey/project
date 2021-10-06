@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../htmltags_3"
+		},
+		{
+			"path": "../htmltags_2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css_1"
+	}
+}
